@@ -1,7 +1,7 @@
 
-![](https://visitor-badge.glitch.me/badge?page_id=SakurajimMai.readme)
-![](http://antzuhl.cn:4000/get/@SakurajimMai.readme)
-![](https://github-readme-stats.vercel.app/api?username=SakurajimMai&show_icons=true&count_private=true&hide=prs&theme=react)
+![](https://visitor-badge.glitch.me/badge?page_id=CES1500.readme)
+![](http://antzuhl.cn:4000/get/@CES1500.readme)
+![](https://github-readme-stats.vercel.app/api?username=CES1500&show_icons=true&count_private=true&hide=prs&theme=react)
  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
  #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
